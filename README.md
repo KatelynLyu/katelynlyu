@@ -16,4 +16,4 @@
 有时合适<br>
 常常关心<br>
 
-<script src="https://fastly.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js"></script>
+<script src="https://example.com/path/to/live2d-widget/autoload.js"></script>
