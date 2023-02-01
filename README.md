@@ -1,5 +1,4 @@
-# katelynlyu.github.com
-`Ranran's Resume`
+# `Ranran's Resume`
 =====
 
 #Hello world! This is Ranran.
