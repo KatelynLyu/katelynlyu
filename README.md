@@ -16,4 +16,4 @@
 有时合适<br>
 常常关心<br>
 
-<script src="https://example.com/path/to/live2d-widget/autoload.js"></script>
+!(https://github.com/KatelynLyu/telegram-wechat/blob/main/telegrammyQR.jpg)
