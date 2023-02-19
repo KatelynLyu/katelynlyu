@@ -16,4 +16,4 @@
 有时合适<br>
 常常关心<br>
 
-![Image text](https://github.com/KatelynLyu/telegram-wechat/blob/main/telegrammyQR.jpg)
+![Image text](https://github.com/KatelynLyu/telegram-wechat/blob/main/telegramimage.jpg)
