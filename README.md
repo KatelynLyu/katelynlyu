@@ -17,5 +17,5 @@
 常常关心<br>
 
 wechat Q & telegram Q shows here<br>
-<image src=“https://github.com/KatelynLyu/telegram-wechat/blob/main/%E5%BE%AE%E4%BF%A1%E5%A4%B4%E5%83%8F.jpeg” width="100px">
+<image src="https://github.com/KatelynLyu/telegram-wechat/blob/main/%E5%BE%AE%E4%BF%A1%E5%A4%B4%E5%83%8F.jpeg" width="100px">
 <image src="https://github.com/KatelynLyu/telegram-wechat/blob/main/telegramimage.jpg" width="100px">
