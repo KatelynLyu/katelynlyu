@@ -1,5 +1,4 @@
-# `Ranran's Resume`
-一个欢脱的小女孩
+# `Ranran's Profile`一个欢脱的小女孩
 =====
 
 #Hello world! This is Ranran.
