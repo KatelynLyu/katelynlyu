@@ -2,6 +2,8 @@
 
 ## Hello world! This is Ranran.
 
+
+https://user-images.githubusercontent.com/110769557/233053603-85e1e523-acff-45b4-96ec-406493fcb368.mp4
 专注AI和CG方向的小染同学<br>
 实力主义至上的教室在逃高中生<br>
 鲁邦三世中度爱好者<br>
