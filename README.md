@@ -13,3 +13,4 @@
 天高风自远，好酒送来人。愿君尧舜上，再使风俗淳。<br>
 目标是服务成功10位IEEE Fellow老师<br>
 还不错的PM，能力贼一般的运维<br>
+![snake](https://raw.githubusercontent.com/KatelynLyu/KatelynLyu/output/github-contribution-grid-snake.svg)
